@@ -1,0 +1,11 @@
+E:\hoc tap\baitapdateandtime\baitapdateandtime\bin\Debug\netcoreapp3.1\baitapdateandtime.exe
+E:\hoc tap\baitapdateandtime\baitapdateandtime\bin\Debug\netcoreapp3.1\baitapdateandtime.deps.json
+E:\hoc tap\baitapdateandtime\baitapdateandtime\bin\Debug\netcoreapp3.1\baitapdateandtime.runtimeconfig.json
+E:\hoc tap\baitapdateandtime\baitapdateandtime\bin\Debug\netcoreapp3.1\baitapdateandtime.runtimeconfig.dev.json
+E:\hoc tap\baitapdateandtime\baitapdateandtime\bin\Debug\netcoreapp3.1\baitapdateandtime.dll
+E:\hoc tap\baitapdateandtime\baitapdateandtime\bin\Debug\netcoreapp3.1\baitapdateandtime.pdb
+E:\hoc tap\baitapdateandtime\baitapdateandtime\obj\Debug\netcoreapp3.1\baitapdateandtime.csprojAssemblyReference.cache
+E:\hoc tap\baitapdateandtime\baitapdateandtime\obj\Debug\netcoreapp3.1\baitapdateandtime.AssemblyInfoInputs.cache
+E:\hoc tap\baitapdateandtime\baitapdateandtime\obj\Debug\netcoreapp3.1\baitapdateandtime.AssemblyInfo.cs
+E:\hoc tap\baitapdateandtime\baitapdateandtime\obj\Debug\netcoreapp3.1\baitapdateandtime.dll
+E:\hoc tap\baitapdateandtime\baitapdateandtime\obj\Debug\netcoreapp3.1\baitapdateandtime.pdb
