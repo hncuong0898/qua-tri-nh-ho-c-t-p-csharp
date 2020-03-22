@@ -1,0 +1,11 @@
+E:\hoc tap\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.exe
+E:\hoc tap\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.deps.json
+E:\hoc tap\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.runtimeconfig.json
+E:\hoc tap\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.runtimeconfig.dev.json
+E:\hoc tap\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.dll
+E:\hoc tap\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.pdb
+E:\hoc tap\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.csprojAssemblyReference.cache
+E:\hoc tap\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.AssemblyInfoInputs.cache
+E:\hoc tap\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.AssemblyInfo.cs
+E:\hoc tap\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.dll
+E:\hoc tap\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.pdb
