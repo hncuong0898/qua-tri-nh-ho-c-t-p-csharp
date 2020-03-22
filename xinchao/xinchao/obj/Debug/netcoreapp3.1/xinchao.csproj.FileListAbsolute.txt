@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\xinchao\xinchao\bin\Debug\netcoreapp3.1\xinchao.exe
+C:\Users\Administrator\source\repos\xinchao\xinchao\bin\Debug\netcoreapp3.1\xinchao.deps.json
+C:\Users\Administrator\source\repos\xinchao\xinchao\bin\Debug\netcoreapp3.1\xinchao.runtimeconfig.json
+C:\Users\Administrator\source\repos\xinchao\xinchao\bin\Debug\netcoreapp3.1\xinchao.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\xinchao\xinchao\bin\Debug\netcoreapp3.1\xinchao.dll
+C:\Users\Administrator\source\repos\xinchao\xinchao\bin\Debug\netcoreapp3.1\xinchao.pdb
+C:\Users\Administrator\source\repos\xinchao\xinchao\obj\Debug\netcoreapp3.1\xinchao.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\xinchao\xinchao\obj\Debug\netcoreapp3.1\xinchao.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\xinchao\xinchao\obj\Debug\netcoreapp3.1\xinchao.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\xinchao\xinchao\obj\Debug\netcoreapp3.1\xinchao.dll
+C:\Users\Administrator\source\repos\xinchao\xinchao\obj\Debug\netcoreapp3.1\xinchao.pdb
