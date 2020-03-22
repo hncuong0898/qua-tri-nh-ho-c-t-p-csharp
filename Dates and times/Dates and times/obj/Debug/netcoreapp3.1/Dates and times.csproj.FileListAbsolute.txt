@@ -1,0 +1,11 @@
+E:\hoc tap\Dates and times\Dates and times\obj\Debug\netcoreapp3.1\Dates and times.csprojAssemblyReference.cache
+E:\hoc tap\Dates and times\Dates and times\obj\Debug\netcoreapp3.1\Dates and times.AssemblyInfoInputs.cache
+E:\hoc tap\Dates and times\Dates and times\obj\Debug\netcoreapp3.1\Dates and times.AssemblyInfo.cs
+E:\hoc tap\Dates and times\Dates and times\bin\Debug\netcoreapp3.1\Dates and times.exe
+E:\hoc tap\Dates and times\Dates and times\bin\Debug\netcoreapp3.1\Dates and times.deps.json
+E:\hoc tap\Dates and times\Dates and times\bin\Debug\netcoreapp3.1\Dates and times.runtimeconfig.json
+E:\hoc tap\Dates and times\Dates and times\bin\Debug\netcoreapp3.1\Dates and times.runtimeconfig.dev.json
+E:\hoc tap\Dates and times\Dates and times\bin\Debug\netcoreapp3.1\Dates and times.dll
+E:\hoc tap\Dates and times\Dates and times\bin\Debug\netcoreapp3.1\Dates and times.pdb
+E:\hoc tap\Dates and times\Dates and times\obj\Debug\netcoreapp3.1\Dates and times.dll
+E:\hoc tap\Dates and times\Dates and times\obj\Debug\netcoreapp3.1\Dates and times.pdb

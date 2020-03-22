@@ -1,0 +1,11 @@
+E:\hoc tap\tinhthoiluonggiuacacngay\tinhthoiluonggiuacacngay\bin\Debug\netcoreapp3.1\tinhthoiluonggiuacacngay.exe
+E:\hoc tap\tinhthoiluonggiuacacngay\tinhthoiluonggiuacacngay\bin\Debug\netcoreapp3.1\tinhthoiluonggiuacacngay.deps.json
+E:\hoc tap\tinhthoiluonggiuacacngay\tinhthoiluonggiuacacngay\bin\Debug\netcoreapp3.1\tinhthoiluonggiuacacngay.runtimeconfig.json
+E:\hoc tap\tinhthoiluonggiuacacngay\tinhthoiluonggiuacacngay\bin\Debug\netcoreapp3.1\tinhthoiluonggiuacacngay.runtimeconfig.dev.json
+E:\hoc tap\tinhthoiluonggiuacacngay\tinhthoiluonggiuacacngay\bin\Debug\netcoreapp3.1\tinhthoiluonggiuacacngay.dll
+E:\hoc tap\tinhthoiluonggiuacacngay\tinhthoiluonggiuacacngay\bin\Debug\netcoreapp3.1\tinhthoiluonggiuacacngay.pdb
+E:\hoc tap\tinhthoiluonggiuacacngay\tinhthoiluonggiuacacngay\obj\Debug\netcoreapp3.1\tinhthoiluonggiuacacngay.AssemblyInfoInputs.cache
+E:\hoc tap\tinhthoiluonggiuacacngay\tinhthoiluonggiuacacngay\obj\Debug\netcoreapp3.1\tinhthoiluonggiuacacngay.AssemblyInfo.cs
+E:\hoc tap\tinhthoiluonggiuacacngay\tinhthoiluonggiuacacngay\obj\Debug\netcoreapp3.1\tinhthoiluonggiuacacngay.dll
+E:\hoc tap\tinhthoiluonggiuacacngay\tinhthoiluonggiuacacngay\obj\Debug\netcoreapp3.1\tinhthoiluonggiuacacngay.pdb
+E:\hoc tap\tinhthoiluonggiuacacngay\tinhthoiluonggiuacacngay\obj\Debug\netcoreapp3.1\tinhthoiluonggiuacacngay.csprojAssemblyReference.cache
