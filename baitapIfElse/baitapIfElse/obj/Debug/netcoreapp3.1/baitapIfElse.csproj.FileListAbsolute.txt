@@ -1,0 +1,11 @@
+E:\hoc tap\baitapIfElse\baitapIfElse\bin\Debug\netcoreapp3.1\baitapIfElse.exe
+E:\hoc tap\baitapIfElse\baitapIfElse\bin\Debug\netcoreapp3.1\baitapIfElse.deps.json
+E:\hoc tap\baitapIfElse\baitapIfElse\bin\Debug\netcoreapp3.1\baitapIfElse.runtimeconfig.json
+E:\hoc tap\baitapIfElse\baitapIfElse\bin\Debug\netcoreapp3.1\baitapIfElse.runtimeconfig.dev.json
+E:\hoc tap\baitapIfElse\baitapIfElse\bin\Debug\netcoreapp3.1\baitapIfElse.dll
+E:\hoc tap\baitapIfElse\baitapIfElse\bin\Debug\netcoreapp3.1\baitapIfElse.pdb
+E:\hoc tap\baitapIfElse\baitapIfElse\obj\Debug\netcoreapp3.1\baitapIfElse.csprojAssemblyReference.cache
+E:\hoc tap\baitapIfElse\baitapIfElse\obj\Debug\netcoreapp3.1\baitapIfElse.AssemblyInfoInputs.cache
+E:\hoc tap\baitapIfElse\baitapIfElse\obj\Debug\netcoreapp3.1\baitapIfElse.AssemblyInfo.cs
+E:\hoc tap\baitapIfElse\baitapIfElse\obj\Debug\netcoreapp3.1\baitapIfElse.dll
+E:\hoc tap\baitapIfElse\baitapIfElse\obj\Debug\netcoreapp3.1\baitapIfElse.pdb
